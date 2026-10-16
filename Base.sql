@@ -13,6 +13,3 @@ INSERT INTO plat (nom,prix) VALUES
 ('Mofo gasy 4',1000),
 ('Rano''ampango',500)
 ;
-
-"CLassé par prix du plus grand au plus petit"
-SELECT * FROM plat ORDER BY prix DESC;
